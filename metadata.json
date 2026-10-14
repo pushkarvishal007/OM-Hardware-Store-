@@ -1,0 +1,6 @@
+{
+  "name": "Om Hardware Store - Khesrahi, Bihar",
+  "description": "Official business website and catalogue for Om Hardware Store on Block Road, Khesrahi, Bihar (843114). Browse hardware supplies, hand tools, plumbing, electricals, and contact via WhatsApp or phone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

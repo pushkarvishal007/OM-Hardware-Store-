@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ENQ-70369",
+    "createdAt": "2026-10-14T04:42:50.369Z",
+    "customerName": "Suresh Singh",
+    "phone": "+91 99319 99999",
+    "category": "Hand Tools",
+    "product": "Claw Hammer",
+    "quantity": "2",
+    "message": "Price check",
+    "status": "Pending"
+  },
+  {
+    "id": "ENQ-1001",
+    "createdAt": "2026-10-13T10:15:00.000Z",
+    "customerName": "Ramesh Kumar",
+    "phone": "+91 98350 12345",
+    "category": "Plumbing Materials",
+    "product": "1-inch PVC Pipes & Elbows",
+    "quantity": "20 pcs",
+    "message": "Namaste, mujhe 1-inch PVC pipes aur elbows ka rate chahiye. Kya shop pe stock available hai?",
+    "status": "Responded via WhatsApp"
+  }
+]

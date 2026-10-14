@@ -1,0 +1,17 @@
+{
+  "storeInfo": {
+    "name": "Om Hardware Store",
+    "nameHindi": "ओम हार्डवेयर स्टोर",
+    "category": "Hardware Store",
+    "address": "VGFR+29G, Block Road, Khesrahi, Bihar 843114, India",
+    "plusCode": "VGFR+29G, Khesrahi, Bihar",
+    "phone": "+91 99319 60096",
+    "phoneRaw": "919931960096",
+    "whatsapp": "+91 99319 60096",
+    "googleMapsUrl": "https://maps.app.goo.gl/LBtg3AevKWECGjAw9",
+    "openingHours": "8:00 AM – 8:00 PM daily",
+    "openingHoursStatus": "Subject to confirmation with shop owner",
+    "announcement": "Welcome to Om Hardware Store. Call or WhatsApp us to check real-time stock and prices before visiting."
+  },
+  "customItems": []
+}
